@@ -7,6 +7,4 @@ Client side map that displays your photos.
 You can see a demo here:
 http://okon3.github.io/PhotoMapJS/
 
-(In the bottom part of the page there is the directory picker. Pick the directory with all your photos [it scans the directory recursively and picks only the images])
-
-Since it's a full Javascript implementation there is no upload of photos, so it's as fast as if it was a desktop application.
+Since it's a full Javascript implementation there is no upload of photos, so it's as fast as if it was a desktop application (and no one will ever steal your naked photos!).
